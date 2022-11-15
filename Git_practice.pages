@@ -1,0 +1,12 @@
+print("hello world!")
+
+#if/elif/else practice
+x = 7
+if x > 50:
+    print ("x is larger than 50")
+elif x < 20:
+    print("x is less than 20")
+elif x == 25:
+    print("x is equal to 25")
+else:
+    print("x is in between 20 and 50")
